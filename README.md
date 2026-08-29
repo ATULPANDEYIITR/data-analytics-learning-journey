@@ -10,14 +10,25 @@ To develop a strong foundation in data analytics by learning how to collect, cle
 ## Learning Path
 
 Data Analytics Fundamentals,
+
 Excel,
+
 Statistics,
+
 SQL,
+
 Python for Data Analysis,
+
 Pandas,
+
 Data Cleaning,
+
 Data Visualization,
+
 Power BI,
+
 Business Intelligence,
+
 Case Studies,
+
 Practical Projects
