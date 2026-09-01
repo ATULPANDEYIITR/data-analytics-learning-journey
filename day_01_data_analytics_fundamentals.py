@@ -1,5 +1,5 @@
 # ============================================================
-# DAY 01: DATA ANALYTICS FUNDAMENTALS
+# DAY 00: DATA ANALYTICS FUNDAMENTALS
 # ============================================================
 
 print("DAY 01 - DATA ANALYTICS FUNDAMENTALS")
