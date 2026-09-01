@@ -33,7 +33,7 @@ Case Studies,
 
 Practical Projects
 
-# Day 01: Data Analytics Fundamentals
+# Day 00: Data Analytics Fundamentals
 
 ## Objective
 
@@ -94,9 +94,3 @@ These fundamentals provide the foundation for learning Excel, SQL, statistics, P
 ## Learning Approach
 
 Data Analytics will be covered gradually, starting with data and analytical thinking before progressing toward statistics, Excel, SQL, Python, data visualization, business intelligence, exploratory analysis, predictive analytics, and advanced analytics.
-
-## Day 01 Completed
-
-**Focus:** Introduction to Data Analytics
-
-**Next:** Continue with the next concepts in Data Analytics.
