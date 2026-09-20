@@ -1,0 +1,37 @@
+# File: pyproject.toml
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "excel-sales-analytics"
+version = "1.0.0"
+description = "Educational sales data cleaning, KPI analysis, pivot analysis, and Excel dashboard project."
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2,<3",
+    "openpyxl>=3.1,<4",
+    "matplotlib>=3.8,<4"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8,<9",
+    "ruff>=0.6,<1"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
