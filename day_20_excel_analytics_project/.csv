@@ -1,0 +1,62 @@
+order_id,order_date,product,category,region,salesperson,city,quantity,unit_price,discount_rate,channel
+S001,2026-01-07,Wireless Mouse,Electronics,South,Sneha,Mumbai,5,25,0.05,Online
+S002,2026-06-23,Wireless Mouse,Electronics,South,Arjun,Lucknow,2,25,0.2,Online
+S003,2026-01-24,Laptop Pro 14,Electronics,North,Aarav,Bengaluru,4,1200,0.05,Retail
+S004,2026-04-29,Desk Lamp,Furniture,East,Neha,Delhi,2,45,0,Online
+S005,2026-05-16,Standing Desk,Furniture,East,Priya,Jaipur,6,480,0.15,Retail
+S006,2026-02-05,Notebook Pack,Stationery,North,Rahul,Hyderabad,5,12,0.1,Online
+S007,2026-03-19,USB-C Hub,Electronics,West,Kavya,Pune,4,65,0.2,Online
+S008,2026-01-30,Keyboard,Electronics,South,Vikram,Mumbai,6,55,0.05,Retail
+S009,2026-05-27,Pen Set,Stationery,North,Neha,Delhi,4,8,0.15,Online
+S010,2026-04-08,Wireless Mouse,Electronics,South,Neha,Mumbai,5,25,0.15,Online
+S011,2026-06-01,Office Chair,Furniture,West,Aarav,Jaipur,2,220,0.2,Retail
+S012,2026-02-14,Monitor 27,Electronics,West,Sneha,Lucknow,7,310,0.1,Online
+S013,2026-01-21,Desk Lamp,,East,Arjun,Pune,1,45,0,Retail
+S014,2026-03-18,Laptop Pro 14,Electronics,North,Priya,Delhi,7,1200,0.05,Online
+S015,2026-04-11,Standing Desk,Furniture,East,Rahul,Bengaluru,3,480,0.2,Retail
+S016,2026-05-04,USB-C Hub,Electronics,West,Kavya,Hyderabad,8,65,0.1,Online
+S017,2026-02-26,Pen Set,Stationery,North,Vikram,Lucknow,2,8,0.05,Retail
+S018,2026-06-14,Office Chair,Furniture,West,Sneha,Mumbai,4,220,0.15,Online
+S019,2026-03-07,Keyboard,Electronics,South,Neha,Jaipur,6,bad,0.1,Retail
+S020,2026-01-17,Notebook Pack,Stationery,North,Aarav,Delhi,3,12,0,Online
+S021,2026-05-30,Monitor 27,Electronics,West,Arjun,Pune,5,310,0.2,Retail
+S022,2026-04-22,Laptop Pro 14,Electronics,North,Kavya,Hyderabad,1,1200,0.1,Online
+S023,2026-02-09,Wireless Mouse,Electronics,South,Rahul,Mumbai,7,25,0.05,Retail
+S024,2026-03-28,Standing Desk,Furniture,East,Priya,Delhi,2,480,0.15,Online
+S025,2026-06-07,Office Chair,Furniture,West,Vikram,Jaipur,5,220,0.05,Retail
+S026,2026-01-12,USB-C Hub,Electronics,West,Neha,Lucknow,3,65,0,Online
+S027,2026-05-11,Desk Lamp,Furniture,East,Sneha,Pune,4,45,0.1,Retail
+S028,2026-02-19,Keyboard,Electronics,South,Aarav,Bengaluru,2,55,0.2,Online
+S029,2026-04-03,Pen Set,Stationery,North,Arjun,Hyderabad,8,8,0.05,Retail
+S030,2026-03-15,Notebook Pack,Stationery,North,Kavya,Lucknow,6,12,0.15,Online
+S031,2026-05-22,Monitor 27,Electronics,West,Rahul,Pune,3,310,0.1,Retail
+S032,2026-01-25,Laptop Pro 14,Electronics, north ,Priya,Delhi,2,1200,0.2,Online
+S033,2026-06-18,Wireless Mouse,Electronics,South,Vikram,Mumbai,4,25,0.05,Retail
+S034,2026-04-17,Standing Desk,Furniture,East,Neha,Jaipur,1,480,0,Online
+S035,2026-02-27,Office Chair,Furniture,West,Aarav,Hyderabad,7,220,0.15,Retail
+S036,2026-03-02,USB-C Hub,Electronics,West,Sneha,Lucknow,5,65,0.2,Online
+S037,2026-05-07,Desk Lamp,Furniture,East,Arjun,Pune,3,45,0.05,Retail
+S038,2026-06-25,Keyboard,Electronics,South,Kavya,Bengaluru,4,55,0.1,Online
+S039,2026-01-19,Pen Set,Stationery,North,Rahul,Delhi,5,8,0,Retail
+S040,2026-04-07,Notebook Pack,Stationery,North,Priya,Hyderabad,7,12,0.2,Online
+S041,2026-03-23,Monitor 27,Electronics,West,Vikram,Pune,2,310,0.15,Retail
+S042,2026-05-14,Laptop Pro 14,Electronics,North,Sneha,Lucknow,5,1200,0.05,Online
+S043,2026-02-03,Wireless Mouse,Electronics,South,Neha,Mumbai,8,25,0.1,Retail
+S044,2026-06-03,Standing Desk,Furniture,East,Aarav,Delhi,4,480,0.2,Online
+S045,2026-01-29,Office Chair,Furniture,West,Arjun,Jaipur,3,220,0.05,Retail
+S046,2026-04-13,USB-C Hub,Electronics,West,Kavya,Hyderabad,6,65,0.15,Online
+S047,2026-03-11,Desk Lamp,Furniture,East,Rahul,Pune,5,45,0.1,Retail
+S048,2026-05-02,Keyboard,Electronics,South,Priya,Bengaluru,1,55,0,Online
+S049,2026-06-12,Pen Set,Stationery,North,Vikram,Lucknow,6,8,0.05,Retail
+S050,2026-02-21,Notebook Pack,Stationery,North,Neha,Delhi,4,12,0.1,Online
+S051,2026-04-26,Monitor 27,Electronics,West,Aarav,Pune,7,310,0.2,Retail
+S052,2026-01-09,Laptop Pro 14,Electronics,North,Sneha,Hyderabad,3,1200,0.15,Online
+S053,2026-05-19,Wireless Mouse,Electronics,South,Arjun,Mumbai,5,25,0.05,Retail
+S054,2026-03-05,Standing Desk,Furniture,East,Kavya,Delhi,2,480,,Online
+S055,2026-06-20,Office Chair,Furniture,West,Rahul,Jaipur,6,220,0.1,Retail
+S056,2026-02-16,USB-C Hub,Electronics,West,Priya,Lucknow,4,65,0.05,Online
+S057,2026-04-19,Desk Lamp,Furniture,East,Vikram,Pune,2,45,0.15,Retail
+S058,2026-03-30,Keyboard,Electronics,South,Sneha,Bengaluru,7,55,0.2,Online
+S059,2026-05-25,Pen Set,Stationery,North,Aarav,Delhi,3,8,0.05,Retail
+S060,2026-06-09,Notebook Pack,Stationery,North,Neha,Hyderabad,5,12,0.1,Online
+S010,2026-04-08,Wireless Mouse,Electronics,South,Neha,Mumbai,5,25,0.15,Online
